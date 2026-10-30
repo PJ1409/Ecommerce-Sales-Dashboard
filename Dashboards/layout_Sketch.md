@@ -9,7 +9,7 @@ Are cancellations and refunds creating operational risks?
 The layout prioritizes headline metrics, followed by business drivers and operational health.
 
 ## ASCII Wireframe
-
+```
 +------------------------------------------------------------------+
 |                  E-COMMERCE EXECUTIVE DASHBOARD                  |
 | Reporting Period: [Selected Period] | Comparison: [Previous]     |
@@ -39,7 +39,7 @@ The layout prioritizes headline metrics, followed by business drivers and operat
 +------------------------------------------------------------------+
 | Notes: Revenue definition, status rules, and data limitations    |
 +------------------------------------------------------------------+
-
+```
 ## Placement Rationale 
 
 ### Row 1: Executive KPIs
