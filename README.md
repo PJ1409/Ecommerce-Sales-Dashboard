@@ -12,11 +12,11 @@ Using SQL, PostgreSQL, and Tableau, an executive dashboard was created to provid
 
 ## Final Dashboard
 
-dashboards/screenshots/draft.png
+![Executive Ecommerce Dashboard](./dashboards/screenshots/final.png)
 
 ## Tableau Dashboard
 
-dashboards/ecommerce executive dashboard.twbx
+[ecommerce_Executive_Dashboard](./dashboards/Ecommerce_Executive_Dashboard.twbx)
 
 ## Business Questions Answered
 
