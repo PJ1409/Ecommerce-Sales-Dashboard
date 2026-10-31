@@ -16,7 +16,7 @@ Using SQL, PostgreSQL, and Tableau, an executive dashboard was created to provid
 
 ## Tableau Dashboard
 
-[ecommerce_Executive_Dashboard](./dashboards/Ecommerce_Executive_Dashboard.twbx)
+[Download Tableau Workbook](./dashboards/Ecommerce%20Executive%20Dashboard.twbx)
 
 ## Business Questions Answered
 
