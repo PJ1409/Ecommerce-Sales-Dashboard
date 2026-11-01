@@ -12,7 +12,7 @@ Using SQL, PostgreSQL, and Tableau, an executive dashboard was created to provid
 
 ## Final Dashboard
 
-![Executive Ecommerce Dashboard](./dashboards/screenshots/v2.png)
+![Executive Ecommerce Dashboard](./dashboards/screenshots/final.png)
 
 ## Tableau Dashboard
 
